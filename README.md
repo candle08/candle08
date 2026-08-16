@@ -6,7 +6,6 @@ I'm a sophomore at the University of Waterloo studying Computer Science. Welcome
 - [EcoSim](https://github.com/cavalier08/EcoSim)
 - [InQuizitive AI](https://github.com/cavalier08/InQuizitive-AI)
 - [ClearQuest](https://github.com/cavalier08/ClearQuest)
-- [A mock-up of a website landing page](https://github.com/cavalier08/camel-ai)
 
 
 You can reach me on linkedin [here](https://www.linkedin.com/in/chantal-zhang-267b5828a/), or by email via chantal.zhang2015@gmail.com. 
